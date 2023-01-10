@@ -1,0 +1,40 @@
+body {
+    background-color: #efe6dd;
+    padding-bottom: 2.25rem;  
+    
+}
+.my-heading {
+    padding: 1.25rem;
+    border-radius: 1rem;
+    margin: 1rem;
+    background-color: #e7b6f3;
+    font-family:  sans-serif;
+}
+
+a{
+    background-color: #e7b6f3!important;
+    color: rgb(19, 17, 153);
+    font-variant: small-caps;
+    font-style: oblique;
+    font-size: 20px ;
+}
+
+#first{
+    border-radius: 5rem;
+}
+
+#last{
+    margin: 2rem ;
+    margin-left: 2rem;
+    padding: 8px;
+    background-color: #f5d3e5;
+    font-weight: 500;   
+}
+
+#heading{
+    background-color: #efe6dd;
+    padding: 12px;
+    border-radius: 1rem;
+    --bs-gutter-x:0.50rem;
+    --bs-gutter-y:1.5rem; 
+}
