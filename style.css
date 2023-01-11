@@ -9,6 +9,7 @@ body {
     margin: 1rem;
     background-color: #e7b6f3;
     font-family:  sans-serif;
+    
 }
 
 a{
@@ -16,7 +17,12 @@ a{
     color: rgb(19, 17, 153);
     font-variant: small-caps;
     font-style: oblique;
-    font-size: 20px ;
+    font-size: 20px;
+}
+#title{
+    font-size: 26px;
+    font-style:oblique;
+    font-variant: small-caps;
 }
 
 #first{
